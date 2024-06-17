@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\bin\Debug\learn_CS.exe.config
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\bin\Debug\learn_CS.exe
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\bin\Debug\learn_CS.pdb
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\obj\Debug\learn_CS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\obj\Debug\learn_CS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\obj\Debug\learn_CS.exe
+C:\Users\ADMIN\source\repos\learn_CS\learn_CS\obj\Debug\learn_CS.pdb
